@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MyApp</title>
+</head>
+<style>
+    :root {
+        --img-width: 400px;
+        --background-color : white;
+        --form-color : grey;
+    }
+    h1 {
+        color : brown !important;
+        text-align : center;
+    }
+    body {
+        padding: 50px;
+        margin: auto;
+        background-image: url("background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    p {
+        color : var(--background-color);
+    }
+    .img-class {
+        border-radius: 50%;
+        text-align : center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 5px bisque;
+        width: var(--img-width);
+
+    }
+    #id-paragraph {
+        color: grey;
+    }
+
+    @media (max-width: 700px) {
+            :root {
+                --img-width: 200px;
+            }
+    }
+</style>
+<body>
+<h1 style="color : white"> Good morning, good sir! </h1>
+
+<img class="img-class" src="black-baby-jaguar.jpg" alt="This is a cute picture with a black baby jaguar">
+
+<h3> Here we have a list with activities: </h3>
+
+<form>
+<ol style="color : brown"> Today we are going to do:
+    <li> Check again how we make the columns. </li>
+    <li> Create a method to put the lines in order. </li>
+    <li style="color : red"> Check the existing functionality. </li>
+</ol>
+    <label>
+        <input type="text" placeholder="Is the list complete?" required>
+    </label>
+    <button type="submit" style=" margin: 20px 40px 20px 40px; border : aliceblue;" ><b> Here is a submit button!</b></button>
+</form>
+
+<p>This is it!</p>
+
+<form style="color : var(--form-color)">
+    <ul>
+        <li> Here is one check with radio buttons! </li>
+    </ul>
+    <label>
+        <input type="radio" name="radioLab">Check 1
+    </label>
+    <label>
+        <input type="radio" name="radioLab">Check 2
+    </label>
+    <ul>
+        <li> Here is the second check with checkbox! </li>
+    </ul>
+    <label>
+        <input type="checkbox" name="checkLab">Check 3
+    </label>
+    <label>
+        <input type="checkbox" name="checkLab">Check 4
+    </label>
+    <button style="color: brown;" type="reset">Reset the values.</button>
+</form>
+
+<p style="color: black !important;">This is it!</p>
+
+<p id="id-paragraph">Good bye!</p>
+
+</body>
+</html>
