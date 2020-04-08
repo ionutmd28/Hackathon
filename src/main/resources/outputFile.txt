@@ -1,0 +1,12 @@
+2      32      2.1.2      Nico      Weather      EU
+2      32      2.1.3      Nico      Weather      EU
+2      32      2.2.1      Nico      Weather      CN
+3      32      2.2.2      Darius      Weather      CN
+3      32      2.2.3      Darius      Feed      EU
+4      32      2.3.3      Nico      Weather      EU
+1      33      3.1.1      Darius      Feed      EU
+1      33      3.1.2      Darius      Feed      EU
+1      33      3.1.4      Darius      Feed      CN
+3      33      3.2.2      Darius      Weather      CN
+4      33      3.2.3      Nico      Feed      CN
+4      33      3.3.3      Nico      Feed      CN
