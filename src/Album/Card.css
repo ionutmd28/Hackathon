@@ -1,0 +1,49 @@
+body {
+    background-color: whitesmoke;
+}
+.big-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-self: center;
+    flex-wrap: wrap;
+}
+.h2-center {
+    color: white;
+    text-align: center;
+}
+
+.thumbnail-box {
+    background-color: gray;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content-box {
+    padding: 10px;
+}
+
+.button-class {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.button-nine-class {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.big-box {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 350px;
+    border: 1px solid gray;
+    background-color: white;
+    margin: 10px;
+}
