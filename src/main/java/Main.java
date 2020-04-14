@@ -16,13 +16,13 @@ public class Main {
 
             while (myReader.hasNext()) {
                 listOfElements.add(myReader.next());
-                if(listOfElements.size() == counter) {
+                if (listOfElements.size() == counter) {
                     String version = listOfElements.get(counter - 6);
                     String cluster = listOfElements.get(counter - 5);
                     String user = listOfElements.get(counter - 4);
                     String id = listOfElements.get(counter - 3);
                     String app = listOfElements.get(counter - 2);
-                    String market = listOfElements.get(counter -1);
+                    String market = listOfElements.get(counter - 1);
 
                     listOfLines.add(new FileLines(id, cluster, version, user, app, market));
                     counter = counter + 6;
@@ -34,7 +34,7 @@ public class Main {
             FileWriter fileWriter = new FileWriter(file.getAbsoluteFile());
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
 
-            for(FileLines fileLines : listOfLines) {
+            for (FileLines fileLines : listOfLines) {
                 bufferedWriter.write(fileLines.toString());
             }
 
