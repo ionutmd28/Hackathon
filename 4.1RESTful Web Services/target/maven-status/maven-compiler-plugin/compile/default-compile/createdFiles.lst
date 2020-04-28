@@ -1,0 +1,5 @@
+ClientResource.class
+ApplicationConfig.class
+MyFilter.class
+ResourceNotFoundException.class
+SomeResource.class
