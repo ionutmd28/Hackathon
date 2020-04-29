@@ -1,14 +1,25 @@
 package org.example;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name="user")
+@XmlAccessorType()
 public class Name {
     private String firstName;
+
     private String lastName;
+
     private String fullName;
 
+    @XmlElement(name = "MyFirstName")
     public String getFirstName() {
         return firstName;
     }
 
+    @XmlElement(defaultValue = "Hategan")
     public String getLastName() {
         return lastName;
     }

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Path("/resource")
-public class SomeResource {
+public class SomeResourceService {
     /**
      * Get method.
      * @return elem List.
@@ -55,7 +55,7 @@ public class SomeResource {
     @Path("{fullName}")
 
     @Consumes({MediaType.APPLICATION_JSON})
-    @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XHTML_XML})
+    @Produces({MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML})
     public Response createNameUsingPath(@PathParam("fullName")final String fullName) {
         final Name name = new Name();
         name.setFullName(fullName);
