@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>4.2RestApp</module>
+        <module>3.2JSF</module>
     </modules>
 
 

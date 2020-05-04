@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/3.1-JavaServer Faces/3.1-JavaServer Faces.iml" filepath="$PROJECT_DIR$/3.1-JavaServer Faces/3.1-JavaServer Faces.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.1RESTful Web Services/4.1RESTful Web Services.iml" filepath="$PROJECT_DIR$/4.1RESTful Web Services/4.1RESTful Web Services.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.RESTful Web Services/4.RESTful Web Services.iml" filepath="$PROJECT_DIR$/4.RESTful Web Services/4.RESTful Web Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.2JavaServerFaces/src/main/main.iml" filepath="$PROJECT_DIR$/3.2JavaServerFaces/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.2JavaServerFaces/src/test/test.iml" filepath="$PROJECT_DIR$/3.2JavaServerFaces/src/test/test.iml" />
     </modules>
   </component>
 </project>
