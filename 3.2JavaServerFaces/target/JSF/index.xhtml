@@ -19,7 +19,15 @@
         <h:commandButton id="changeCodeButton" value="Change Betwen Country Codes"
                          action="#{countrySessionBean.changeCode}"
                      actionListener="#{countrySessionBean.getTheButtonId}" >
-<!--            <f:actionListener type="CountrySessionBean" />-->
+        </h:commandButton>
+    </h:form>
+
+    <h:form>
+        <h:inputText value = "#{user.name}" id = "name"/>
+        <h:inputText value = "#{user.password}" id = "password"/>
+        <h:outputText value="#{user.status}" id="status"/>
+        <h:commandButton value="Login" type="button" actionListener="#{user.login}">
+            <f:ajax execute="name password" render="status"/>
         </h:commandButton>
     </h:form>
 
