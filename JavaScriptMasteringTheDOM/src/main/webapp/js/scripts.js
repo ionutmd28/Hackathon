@@ -4,28 +4,32 @@ function myFunction() {
 
     carImages.addEventListener("click", function (e) {
 
-        //create a new div
-        var overlay = document.createElement("div");
-        overlay.id = "overlay";
-
-        //set style for div
-        overlay.className = "onClick";
-
-        //get image source
-        var imageSrc = e.target.src;
-
-        //create the image
-        var popUpImage = document.createElement('img');
-        popUpImage.id = "popimage";
-        popUpImage.src = imageSrc;
-
-        //style the image
-        popUpImage.style.display = "block";
-        popUpImage.style.width = "58%";
-        popUpImage.style.margin = "0 auto";
-
         //append the image to the new div
-        overlay.appendChild(popUpImage);
+        if(e.target.nodeName === "IMG") {
+
+            //create a new div
+            var overlay = document.createElement("div");
+            overlay.id = "overlay";
+
+            //set style for div
+            overlay.className = "onClick";
+
+            //get image source
+            var imageSrc = e.target.src;
+
+            //create the image
+            var popUpImage = document.createElement('img');
+            popUpImage.id = "popimage";
+            popUpImage.src = imageSrc;
+
+            //style the image
+            popUpImage.style.display = "block";
+            popUpImage.style.width = "58%";
+            popUpImage.style.margin = "0 auto";
+
+            overlay.appendChild(popUpImage);
+
+        }
 
         function removeOverlay() {
             if(popUpImage) {
