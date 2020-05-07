@@ -23,12 +23,13 @@
     </h:form>
 
     <h:form>
-        <h:inputText value = "#{user.name}" id = "name"/>
-        <h:inputText value = "#{user.password}" id = "password"/>
-        <h:outputText value="#{user.status}" id="status"/>
+        <h:inputText value ="#{user.name}" id ="name"/>
+        <h:inputText value ="#{user.password}" id ="password"/>
         <h:commandButton value="Login" type="button" actionListener="#{user.login}">
             <f:ajax execute="name password" render="status"/>
         </h:commandButton>
+        <br/>
+        <h:outputText value="#{user.status}" id="status"/>
     </h:form>
 
 </h:body>

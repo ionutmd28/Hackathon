@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/4.2RestApp" />
+    <file type="web" url="file://$PROJECT_DIR$/5.SOAP-Based Web Services" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />

@@ -1,11 +1,10 @@
-import javax.faces.bean.SessionScoped;
-import javax.faces.event.AjaxBehaviorEvent;
+import javax.enterprise.context.RequestScoped;
 import javax.inject.Named;
 import java.awt.event.ActionEvent;
 import java.io.Serializable;
 
 @Named
-@SessionScoped
+@RequestScoped
 public class User implements Serializable {
     private String name;
     private String password;
@@ -37,9 +36,8 @@ public class User implements Serializable {
 
     /**
      * login method.
-     * @param event event.
      */
-    public void login(AjaxBehaviorEvent event) {
+    public void login() {
         if (getName().equals(getPassword())) {
             setStatus("Login was successfully.");
         } else {

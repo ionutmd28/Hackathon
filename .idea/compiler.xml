@@ -9,6 +9,7 @@
         <module name="JavaScriptMasteringTheDOM" />
         <module name="3.2JSF" />
         <module name="4.2RestApp" />
+        <module name="5.SOAP-Based Web Services" />
       </profile>
     </annotationProcessing>
   </component>
