@@ -2,8 +2,8 @@ package soapdocument;
 
 import javax.jws.WebService;
 
-@WebService(endpointInterface = "soapdocument.HelloWorld")
-public class HelloWorldImpl implements HelloWorld{
+@WebService(endpointInterface = "soapdocument.HelloWorldDoc")
+public class HelloWorldDocImpl implements HelloWorldDoc {
 
     @Override
     public String getHelloWorldAsString(String name) {

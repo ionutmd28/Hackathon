@@ -42,7 +42,7 @@ function myFunction() {
         });
 
         window.onkeyup = function (event) {
-            if (event.keyCode === 27) {
+            if (event.key === "Escape") {
                 removeOverlay();
             }
         }
