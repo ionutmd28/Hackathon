@@ -1,11 +1,10 @@
 function myFunction() {
+    //
+    // var carImages = document.querySelector(".images");
 
-    var carImages = document.querySelector(".images");
-
-    carImages.addEventListener("click", function (e) {
-
-        //append the image to the new div
-        if(e.target.nodeName === "IMG") {
+    addEventListener("click", function image(e) {
+        if(e.target.classList.contains("img-responsive")) {
+            //append the image to the new div
 
             //create a new div
             var overlay = document.createElement("div");
@@ -29,30 +28,31 @@ function myFunction() {
 
             overlay.appendChild(popUpImage);
 
-        }
-
-        function removeOverlay() {
-            if(popUpImage) {
-                overlay.parentElement.removeChild(overlay);
+            function removeOverlay() {
+                if (popUpImage && overlay) {
+                    overlay.parentElement.removeChild(overlay);
+                    removeEventListener("click", image,true);
+                }
             }
-        }
 
-        overlay.addEventListener("click", function () {
-            removeOverlay();
-        });
+            addEventListener("click", function removeO(e) {
+                if (e.target.classList.contains("onClick")) {
+                    removeOverlay();
+                    removeEventListener("click", removeO,true);
+                }
+            });
 
-        window.onkeyup = function (event) {
-            if (event.key === "Escape") {
-                removeOverlay();
+            if (overlay) {
+                window.onkeyup = function removeK(event) {
+                    if (event.key === "Escape") {
+                        removeOverlay();
+                        removeEventListener("keypress", removeK,true);
+                    }
+                }
             }
+
+            document.body.appendChild(overlay);
         }
-
-        document.body.appendChild(overlay);
-
-
-        console.log(popUpImage);
-        console.log(e.target);
-
     }); //Event listener for the div width class of image
 
     console.log("Works!")
