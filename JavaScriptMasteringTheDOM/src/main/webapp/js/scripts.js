@@ -1,10 +1,9 @@
 function myFunction() {
     //
-    // var carImages = document.querySelector(".images");
+    var carImages = document.querySelector(".images");
 
-    addEventListener("click", function image(e) {
+    carImages.addEventListener("click", function image(e) {
         if(e.target.classList.contains("img-responsive")) {
-            //append the image to the new div
 
             //create a new div
             var overlay = document.createElement("div");
@@ -31,24 +30,23 @@ function myFunction() {
             function removeOverlay() {
                 if (popUpImage && overlay) {
                     overlay.parentElement.removeChild(overlay);
-                    removeEventListener("click", image,true);
                 }
             }
 
-            addEventListener("click", function removeO(e) {
+            window.addEventListener("click", function removeO(e) {
                 if (e.target.classList.contains("onClick")) {
                     removeOverlay();
-                    removeEventListener("click", removeO,true);
+                    removeEventListener("click", removeO);
                 }
             });
 
-            if (overlay) {
-                window.onkeyup = function removeK(event) {
+            window.onkeyup = function removeK(event) {
                     if (event.key === "Escape") {
-                        removeOverlay();
-                        removeEventListener("keypress", removeK,true);
+                        if(typeof(overlay) !== 'undefined') {
+                            removeOverlay();
+                            window.removeEventListener("keyup", removeK);
+                        }
                     }
-                }
             }
 
             document.body.appendChild(overlay);
