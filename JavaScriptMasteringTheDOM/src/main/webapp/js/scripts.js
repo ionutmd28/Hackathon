@@ -1,5 +1,5 @@
 function myFunction() {
-    //
+    //images list
     var carImages = document.querySelector(".images");
 
     carImages.addEventListener("click", function image(e) {
@@ -27,27 +27,40 @@ function myFunction() {
 
             overlay.appendChild(popUpImage);
 
+            //remove the new created overlay including the new image
             function removeOverlay() {
                 if (popUpImage && overlay) {
                     overlay.parentElement.removeChild(overlay);
                 }
             }
 
-            window.addEventListener("click", function removeO(e) {
+            //remove the events listeners to close the actions and avoid conflicts
+            function removeClickAndEscapeEvents() {
+                window.removeEventListener("click", removeByClick);
+                window.removeEventListener("keyup", removeByEscape);
+            }
+
+            //remove overlay and click and escape events
+            function removeByClick(e) {
                 if (e.target.classList.contains("onClick")) {
                     removeOverlay();
-                    removeEventListener("click", removeO);
+                    removeClickAndEscapeEvents();
                 }
-            });
-
-            window.onkeyup = function removeK(event) {
-                    if (event.key === "Escape") {
-                        if(typeof(overlay) !== 'undefined') {
-                            removeOverlay();
-                            window.removeEventListener("keyup", removeK);
-                        }
-                    }
             }
+
+
+            //remove overlay and click and escape events
+            function removeByEscape(event) {
+                if (event.key === "Escape") {
+                    removeOverlay();
+                    removeClickAndEscapeEvents();
+
+                }
+            }
+
+            window.addEventListener("click", removeByClick);
+
+            window.addEventListener("keyup", removeByEscape);
 
             document.body.appendChild(overlay);
         }
