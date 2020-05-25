@@ -88,3 +88,120 @@ numberArray.push(1);
 numberArray.push(2);
 numberArray.push(3);
 console.log(numberArray.convert());
+
+let symbol = Symbol("debug");
+
+console.log(typeof symbol);
+
+let anotherSymbol = Symbol("debug");
+
+console.log(symbol === anotherSymbol);
+
+let obj = {
+    name : "Max",
+    [symbol] : 22
+}
+
+console.log(obj);
+console.log(obj[symbol]);
+
+console.log("----------------------")
+
+let symbol1 = Symbol.for("age");
+let symbol2 = Symbol.for("age");
+let symbol3 = Symbol.for("age");
+
+if (symbol1 === symbol3 && symbol1 === symbol3) {
+    console.log("The " + symbol2.toString() + " is equal to " + symbol3.toString());
+}
+
+let woman = {
+    name : "Maria",
+    age : 30
+};
+function makeAge(person) {
+    let ageSymbol = Symbol.for('age');
+    person[ageSymbol] = 27;
+}
+
+makeAge(woman);
+
+console.log(woman[symbol1]);
+console.log(woman["age"]);
+
+console.log("----------------------")
+
+class Person1 {
+
+}
+
+Person1.prototype[Symbol.toStringTag] = "PersonXX";
+
+let person1 = new Person1();
+console.log(person1);
+
+let numbers = [1, 2, 3];
+
+numbers[Symbol.toPrimitive] = function() {
+    return 999;
+}
+
+console.log(numbers + 1);
+
+//Itterators and Generators
+
+console.log("----------------------")
+
+let array = [1, 2, 3];
+
+console.log(typeof array[Symbol.iterator]);
+
+let it = array[Symbol.iterator]();
+console.log(it.next());
+console.log(it.next());
+console.log(it.next());
+console.log(it.next());
+
+let newArray = [1,2,3,4];
+
+newArray[Symbol.iterator] = function () {
+    let nextValue = 10;
+    return {
+        next : function () {
+            nextValue++;
+            return {
+                done : nextValue > 15,
+                value : nextValue
+            }
+        }
+    }
+}
+
+for( let iterator of newArray) {
+    console.log(iterator);
+}
+
+let myObj = {
+    name : "Ionut",
+    hobbies : ['Sports', "Reading"],
+    [Symbol.iterator] : function f() {
+        let i = 0;
+        let hobbies = this.hobbies;
+        return {
+            next : function () {
+                let value = hobbies[i];
+                i++;
+                return {
+                    done: i > hobbies.length,
+                    value: value
+                }
+            },
+        };
+    }
+};
+
+for (let hobby of myObj) {
+    console.log(hobby);
+}
+
+
