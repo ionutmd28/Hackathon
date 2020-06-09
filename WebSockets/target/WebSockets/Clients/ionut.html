@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>WebSocket</title>
+</head>
+<body>
+
+	<p id="new-div">Ionut Client</p>
+	<p id="new-div1"></p>
+
+	<label>
+		<input id="input" type="text"/>
+	</label>
+
+	<button onclick="getInputToSend(); addMessageToBox()">send</button>
+
+	<script>
+		function addMessageToBox() {
+			myTextBox.messages.push(document.getElementById('input').value);
+			document.getElementById("new-div1").innerHTML = myTextBox.messages;
+		}
+
+		function getInputToSend() {
+			socket.send(document.getElementById('input').value);
+		}
+
+		var myTextBox = {
+			messages : []
+		}
+
+		var socket = new WebSocket("ws://localhost:8080/WebSockets/chat/Ionut")
+		socket.onmessage = function(event) {
+			myTextBox.messages.push(event.data);
+			alert(event.data);
+			document.getElementById("new-div1").innerHTML = myTextBox.messages;
+		}
+
+	</script>
+
+</body>
+</html>

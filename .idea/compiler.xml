@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaScriptMasteringTheDOM" />
+        <module name="ES6 JavaScript" />
         <module name="5.SOAP-Based Web Services" />
         <module name="3.2JSF" />
         <module name="4.2RestApp" />
-        <module name="ES6 JavaScript" />
+        <module name="JavaScriptMasteringTheDOM" />
       </profile>
     </annotationProcessing>
   </component>
