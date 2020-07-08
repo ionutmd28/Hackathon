@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LoginPage</title>
+    <link rel="stylesheet" href="../css/LoginStyle.css">
+</head>
+<body>
+
+    <div class="top">
+        <h1 style="color:white">AutoStack</h1>
+        <h4 style="color:white">~Pentru ca fiecare barbat are nevoie de jucarii noi, din cand in cand~</h4>
+    </div>
+
+    <form class="login-form" name="login">
+        <h4 style="color: white">Va rugam sa va logati inainte de a intra in magazin:</h4>
+        <label>
+            <input placeholder="Email" type="email" name="userEmail">
+        </label>
+        <br>
+        <label>
+            <input placeholder="Password" type="password" name="userPassword">
+        </label>
+        <br>
+        <button type="button" onclick="checkCredentials(login)">Login</button>
+    </form>
+
+    <script src="../scripts/login.js"></script>
+
+</body>
+</html>

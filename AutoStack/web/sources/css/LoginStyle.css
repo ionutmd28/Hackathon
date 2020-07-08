@@ -1,0 +1,36 @@
+body {
+    background-image: url("../imgs/myCarImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 10px;
+    height: 100%;
+    margin: 0;
+}
+
+.top {
+    position: relative;
+    background-color: #333;
+    overflow: hidden;
+    text-align: center;
+    border: chocolate solid medium;
+    border-radius: 20px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: #333;
+    text-align: center;
+    align-items: center;
+    border: chocolate solid medium;
+    border-radius: 20px;
+    top: 150px;
+    margin: auto;
+    width: 300px;
+    height: 200px;
+
+}
+

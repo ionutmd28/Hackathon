@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HomePage</title>
+    <link rel="stylesheet" href="../css/HomeStyle.css">
+</head>
+<body>
+    <div class="top-navigation">
+
+        <a class="active" href="#">
+            <h3>AutoStack™</h3>
+        </a>
+
+        <div class="right-positioning-nav">
+            <a href="#">
+                <h3>Home</h3>
+            </a>
+            <a href="#">
+                <h3>Menu</h3>
+            </a>
+            <a href="#" onclick="logout()">
+                <h3>Logout</h3>
+            </a>
+        </div>
+
+    </div>
+
+    <div class="body-div">
+
+        <div id="first-half" class="list">
+
+            <h3>Create a new auto part here</h3>
+            <div class="title-line">
+                <h5>Here you can create a new auto part for sale or update a existing one.</h5>
+            </div>
+
+            <form class="create-form" enctype="multipart/form-data" >
+                <h5>Please fulfill this form in order to create a new part or update a existing one:</h5>
+                <label>
+                    <input id="partName" type="text" placeholder="Name of the part">
+                </label>
+                <label>
+                    <input id="partDescription" type="text" placeholder="Description">
+                </label>
+                <label>
+                    <input id="price" type="number" placeholder="Price(eur)">
+                </label>
+                <label>
+                    <div id="image-div"><b>Please insert a picture:</b></div>
+                    <input id="image" type="file" placeholder="Image" alt="Insert image">
+                </label>
+                <button id="createOrUpdate" class="create-button" type="submit" onclick="setData()">Create</button>
+            </form>
+
+            <h3>Auto parts added</h3>
+            <div class="title-line">
+                <h5>Here is a personal list with the auto parts added.</h5>
+            </div>
+        </div>
+
+        <div id="second-half" class="list">
+
+            <h3>Auto parts available</h3>
+            <div class="title-line">
+                <h5>Here is a list with the available auto parts.</h5>
+            </div>
+
+            <div class="part-identifier">
+                <h4><a>Car alarms</a></h4>
+                <img src="../imgs/alarme.jpg" alt="Car alarms">
+                <p class="text-parts"> A car alarm is an electronic device installed in a vehicle in an attempt to discourage theft of the vehicle itself, its contents, or both. Car alarms work by emitting high-volume sound (often a vehicle-mounted siren, klaxon, pre-recorded verbal warning, the vehicle's own horn, or a combination of these) when the conditions necessary for triggering it are met.</p>
+                <div class="line">
+                    <button type="submit" onclick="addElement(this)">Add this part</button>
+                </div>
+            </div>
+
+            <div class="part-identifier">
+                <h4><a>Towing nail</a></h4>
+                <img src="../imgs/cui.jpg" alt="Towing nail">
+                <p class="text-parts">Towing is coupling two or more objects together so that they may be pulled by a designated power source or sources. The towing source may be a motorized land vehicle, vessel, animal, or human, and the load being anything that can be pulled. These may be joined by a chain, rope, bar, hitch, three-point, fifth wheel, coupling, drawbar, integrated platform, or other means of keeping the objects together while in motion.</p>
+                <div class="line">
+                    <button type="submit" onclick="addElement(this)">Add this part</button>
+                </div>
+            </div>
+
+            <div class="part-identifier">
+                <h4><a>Wipers</a></h4>
+                <img src="../imgs/stergatoare.jpg" alt="Wipers">
+                <p class="text-parts">A windshield wiper or windscreen wiper (British English) is a device used to remove rain, snow, ice, washer fluid, water, and/or debris from a vehicle's front window so the vehicle's operator can better see what's ahead of them. Almost all motor vehicles, including cars, trucks, buses, train locomotives, and watercraft with a cabin—and some aircraft—are equipped with one or more such wipers, which are usually a legal requirement.</p>
+                <div class="line">
+                    <button type="submit" onclick="addElement(this)">Add this part</button>
+                </div>
+            </div>
+
+            <div class="part-identifier">
+                <h4><a>Seat covers</a></h4>
+                <img src="../imgs/huse.jpg" alt="Seat covers">
+                <p class="text-parts">A car seat is the seat used in automobiles. Most car seats are made from inexpensive but durable material in order to withstand prolonged use. The most common material is polyester.</p>
+                <div class="line">
+                    <button type="submit" onclick="addElement(this)">Add this part</button>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="../scripts/setDataOnSession.js"></script>
+    <script src="../scripts/logout.js"></script>
+    <script src="../scripts/addElement.js"></script>
+    <script src="../scripts/createElement.js"></script>
+    <script src="../scripts/deleteItem.js"></script>
+    <script src="../scripts/updateItem.js"></script>
+
+    <script>
+        create();
+    </script>
+</body>
+</html>
