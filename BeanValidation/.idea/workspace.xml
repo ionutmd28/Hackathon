@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75e49285-17bf-488e-9279-5c33395c9d01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../4.1RESTful Web Services/rest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.2RestApp/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.2RestApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.2RestApp/4.2RestApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoStack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanValidation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BeanValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/BeanValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/Concurrency Utilities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MainForSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MySong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/EjbExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/MyManagedTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/CallableExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/FactoryExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/CallableListenerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/CallableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/PoolExecutorEJB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/SimpleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/MySong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/MyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/rest/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/EJB1.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MySingletonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MyStatefulBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MyStatelessBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/Service2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MySingletonBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MyStatefulBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MyStatelessBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/Service2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MySingletonBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MyStatefulBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MyStatelessBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/Service2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1elaf6YHPMFuiv4jQw5VRiAf80i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BeanValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BeanValidation" />
+      <module name="BeanValidation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeanValidation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75e49285-17bf-488e-9279-5c33395c9d01" name="Default Changelist" comment="" />
+      <created>1594898733561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594898733561</updated>
+      <workItem from="1594898737218" duration="5722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1480" y="101" key="#Project_Structure" timestamp="1594908654209">
+      <screen x="-1920" y="7" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="101" key="#Project_Structure/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594908654209" />
+    <state width="1877" height="417" key="GridCell.Tab.0.bottom" timestamp="1594910054266">
+      <screen x="-1920" y="7" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="417" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054266" />
+    <state width="1493" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147154" />
+    <state width="1877" height="417" key="GridCell.Tab.0.center" timestamp="1594910054266">
+      <screen x="-1920" y="7" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="417" key="GridCell.Tab.0.center/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054265" />
+    <state width="1493" height="196" key="GridCell.Tab.0.center/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147153" />
+    <state width="1877" height="417" key="GridCell.Tab.0.left" timestamp="1594910054265">
+      <screen x="-1920" y="7" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="417" key="GridCell.Tab.0.left/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054265" />
+    <state width="1493" height="196" key="GridCell.Tab.0.left/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147153" />
+    <state width="1877" height="417" key="GridCell.Tab.0.right" timestamp="1594910054266">
+      <screen x="-1920" y="7" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="417" key="GridCell.Tab.0.right/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054266" />
+    <state width="1493" height="196" key="GridCell.Tab.0.right/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147154" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594906292217">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594906292217" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/BeanValidation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
