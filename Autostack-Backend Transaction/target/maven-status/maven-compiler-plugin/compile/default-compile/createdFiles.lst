@@ -1,0 +1,8 @@
+persistence\dao\impl\MagazinDaoImpl.class
+persistence\dao\MagazinDao.class
+business\MagazinManager.class
+service\ApplicationConfig.class
+service\MagazinService.class
+business\impl\MagazinManagerImpl.class
+persistence\dao\impl\AbstractDao.class
+persistence\entities\Magazin.class

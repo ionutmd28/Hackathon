@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="service.AppTest" time="0.042" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="jdk.extensions.version" value="8.0.232.1"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Autostack-Backend\target\test-classes;D:\Autostack-Backend\target\classes;C:\Users\imiclaus\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\imiclaus\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\imiclaus\.m2\repository\javax\javaee-api\7.0\javaee-api-7.0.jar;C:\Users\imiclaus\.m2\repository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar;C:\Users\imiclaus\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\hibernate-core\5.1.10.Final\hibernate-core-5.1.10.Final.jar;C:\Users\imiclaus\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar;C:\Users\imiclaus\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar;C:\Users\imiclaus\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;C:\Users\imiclaus\.m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\Users\imiclaus\.m2\repository\org\jboss\jandex\2.0.3.Final\jandex-2.0.3.Final.jar;C:\Users\imiclaus\.m2\repository\com\fasterxml\classmate\1.3.0\classmate-1.3.0.jar;C:\Users\imiclaus\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\imiclaus\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.1.Final\hibernate-commons-annotations-5.0.1.Final.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\hibernate-entitymanager\5.1.10.Final\hibernate-entitymanager-5.1.10.Final.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="com.ibm.zero.version" value="2"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="java.vendor.url" value="http://www.eclipse.org/openj9"/>
+    <property name="user.timezone" value="Europe/Athens"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin\compressedrefs;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\imiclaus\AppData\Local\Temp\surefire5251632586927047108\surefirebooter1279735238602417630.jar C:\Users\imiclaus\AppData\Local\Temp\surefire5251632586927047108 2020-08-03T11-23-57_070-jvmRun1 surefire3043274489267203244tmp surefire_0998539885398958023tmp"/>
+    <property name="surefire.test.class.path" value="D:\Autostack-Backend\target\test-classes;D:\Autostack-Backend\target\classes;C:\Users\imiclaus\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\imiclaus\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\imiclaus\.m2\repository\javax\javaee-api\7.0\javaee-api-7.0.jar;C:\Users\imiclaus\.m2\repository\com\sun\mail\javax.mail\1.5.0\javax.mail-1.5.0.jar;C:\Users\imiclaus\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\hibernate-core\5.1.10.Final\hibernate-core-5.1.10.Final.jar;C:\Users\imiclaus\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar;C:\Users\imiclaus\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar;C:\Users\imiclaus\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;C:\Users\imiclaus\.m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\Users\imiclaus\.m2\repository\org\jboss\jandex\2.0.3.Final\jandex-2.0.3.Final.jar;C:\Users\imiclaus\.m2\repository\com\fasterxml\classmate\1.3.0\classmate-1.3.0.jar;C:\Users\imiclaus\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\imiclaus\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.1.Final\hibernate-commons-annotations-5.0.1.Final.jar;C:\Users\imiclaus\.m2\repository\org\hibernate\hibernate-entitymanager\5.1.10.Final\hibernate-entitymanager-5.1.10.Final.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\imiclaus"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="file.separator" value="\"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="basedir" value="D:\Autostack-Backend"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="surefire.real.class.path" value="C:\Users\imiclaus\AppData\Local\Temp\surefire5251632586927047108\surefirebooter1279735238602417630.jar"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="sun.boot.class.path" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin\compressedrefs\jclSC180\vm.jar;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\se-service.jar;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\rt.jar;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\resources.jar;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\jsse.jar;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\charsets.jar;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\jce.jar"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin\compressedrefs;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.fullversion" value="1.8.0_232-b09&#10;JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20191106_498 (JIT enabled, AOT enabled)&#10;OpenJ9   - 77c1cf708&#10;OMR      - 20db4fbc1&#10;JCL      - 3504dff40aa based on jdk8u232-b09"/>
+    <property name="java.runtime.version" value="1.8.0_232-b09"/>
+    <property name="user.name" value="imiclaus"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="localRepository" value="C:\Users\imiclaus\.m2\repository"/>
+    <property name="java.io.tmpdir" value="C:\Users\imiclaus\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_232"/>
+    <property name="com.ibm.system.agent.path" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin"/>
+    <property name="user.dir" value="D:\Autostack-Backend"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="os.encoding" value="UTF8"/>
+    <property name="java.library.path" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin\compressedrefs;D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\PowerShell\6\;C:\Program Files\nodejs\;C:\Program Files\MATLAB\R2020a\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\imiclaus\AppData\Local\Microsoft\WindowsApps;D:\Projects\F24\Enviroment\jdk8u232-openj9\bin;D:\Maven\apache-maven-3.6.3\bin;C:\Users\imiclaus\AppData\Roaming\npm;;."/>
+    <property name="java.vendor" value="Eclipse OpenJ9"/>
+    <property name="java.vm.info" value="JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20191106_498 (JIT enabled, AOT enabled)&#10;OpenJ9   - 77c1cf708&#10;OMR      - 20db4fbc1&#10;JCL      - 3504dff40aa based on jdk8u232-b09"/>
+    <property name="java.vm.version" value="openj9-0.17.0"/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="ibm.system.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.ext.dirs" value="D:\Projects\F24\Enviroment\jdk8u232-openj9\jre\lib\ext"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="service.AppTest" time="0.003"/>
+</testsuite>
