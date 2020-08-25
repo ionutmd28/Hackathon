@@ -1,0 +1,6 @@
+services\Service.class
+beans\MyStatefulBean.class
+services\AppConfig.class
+beans\MyStatelessBean.class
+beans\MySingletonBean.class
+services\Service2.class

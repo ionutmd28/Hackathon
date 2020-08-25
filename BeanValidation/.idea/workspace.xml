@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75e49285-17bf-488e-9279-5c33395c9d01" name="Default Changelist" comment="">
+    <list default="true" id="75e49285-17bf-488e-9279-5c33395c9d01" name="Default Changelist" comment="Bean validator">
       <change afterPath="$PROJECT_DIR$/../4.1RESTful Web Services/rest.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../4.2RestApp/.idea/checkstyle-idea.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../4.2RestApp/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../4.2RestApp/4.2RestApp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AutoStack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeanValidation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BeanValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/BeanValidation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/checkstyle-idea.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/compiler.xml" afterDir="false" />
@@ -111,7 +98,20 @@
       <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EJB1.1/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/JavaTransaction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/main/java/org/example/ManagerTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/main/java/org/example/TransactionEJB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +141,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -175,52 +176,62 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594898733561</updated>
-      <workItem from="1594898737218" duration="5722000" />
+      <workItem from="1594898737218" duration="5813000" />
+      <workItem from="1595409611507" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="Bean validator">
+      <created>1594910149500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594910149500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bean validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bean validator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1480" y="101" key="#Project_Structure" timestamp="1594908654209">
       <screen x="-1920" y="7" width="1920" height="1040" />
     </state>
     <state x="-1480" y="101" key="#Project_Structure/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594908654209" />
-    <state width="1877" height="417" key="GridCell.Tab.0.bottom" timestamp="1594910054266">
-      <screen x="-1920" y="7" width="1920" height="1040" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1594910146261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594910146261" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1594910158031">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="417" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054266" />
-    <state width="1493" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147154" />
-    <state width="1877" height="417" key="GridCell.Tab.0.center" timestamp="1594910054266">
-      <screen x="-1920" y="7" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594910158031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1594910158031">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="417" key="GridCell.Tab.0.center/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054265" />
-    <state width="1493" height="196" key="GridCell.Tab.0.center/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147153" />
-    <state width="1877" height="417" key="GridCell.Tab.0.left" timestamp="1594910054265">
-      <screen x="-1920" y="7" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594910158031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1594910158031">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="417" key="GridCell.Tab.0.left/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054265" />
-    <state width="1493" height="196" key="GridCell.Tab.0.left/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147153" />
-    <state width="1877" height="417" key="GridCell.Tab.0.right" timestamp="1594910054266">
-      <screen x="-1920" y="7" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594910158031" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1594910158031">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="417" key="GridCell.Tab.0.right/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594910054266" />
-    <state width="1493" height="196" key="GridCell.Tab.0.right/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594908147154" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594910158031" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594910154700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594910154700" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594906292217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1594906292217" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/BeanValidation.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

@@ -1,0 +1,15 @@
+org\example\managedtaskexample\Main.class
+org\example\managedtaskexample\MyManagedTask.class
+org\example\rest\Executor.class
+org\example\rest\FactoryExecutorService$1.class
+org\example\MySong.class
+org\example\rest\apps\PoolExecutorEJB.class
+org\example\MyTask.class
+org\example\rest\apps\SimpleTask.class
+org\example\rest\ApplicationConfig.class
+org\example\Main.class
+org\example\rest\apps\CallableTask.class
+org\example\managedtaskexample\EjbExample.class
+org\example\rest\apps\CallableListenerTask.class
+org\example\rest\CallableExecutor.class
+org\example\rest\FactoryExecutorService.class

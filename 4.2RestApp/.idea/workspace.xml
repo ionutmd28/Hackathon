@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ca90bec-c2ef-4e9b-87fc-455589731e19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../4.1RESTful Web Services/rest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.2RestApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoStack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/Concurrency Utilities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MainForSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MySong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MyTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/EjbExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/MyManagedTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/CallableExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/FactoryExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/CallableListenerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/CallableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/PoolExecutorEJB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/SimpleTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/MySong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/MyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/rest/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/EJB1.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MySingletonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MyStatefulBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MyStatelessBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/Service2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MySingletonBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MyStatefulBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MyStatelessBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/Service2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MySingletonBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MyStatefulBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MyStatelessBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/Service2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/JavaTransaction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/main/java/org/example/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/main/java/org/example/ManagerTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/main/java/org/example/TransactionEJB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/JavaTransaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/classes/org/example/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/classes/org/example/ManagerTransactions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/classes/org/example/TransactionEJB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeanValidation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanValidation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\imiclaus\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-1\202.6397.20\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eRuQFjOyzwIkXFY5gvTVVQy73v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoStack" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ca90bec-c2ef-4e9b-87fc-455589731e19" name="Default Changelist" comment="" />
+      <created>1594296710142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594296710142</updated>
+      <workItem from="1594296711381" duration="3022000" />
+      <workItem from="1594363637873" duration="1452000" />
+      <workItem from="1594622247441" duration="1283000" />
+      <workItem from="1594709232606" duration="1207000" />
+      <workItem from="1595485115384" duration="666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1595485179686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1180" y="282" key="FileChooserDialogImpl/0.0.1536.824/-1920.7.1920.1040@-1920.7.1920.1040" timestamp="1594709239618" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595485179686" />
+  </component>
+</project>

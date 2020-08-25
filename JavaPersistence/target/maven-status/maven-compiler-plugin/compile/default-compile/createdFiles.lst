@@ -1,0 +1,14 @@
+business\impl\CarManagerImpl.class
+business\CarManager.class
+service\UserService.class
+persistence\dao\UserDao.class
+persistence\dao\impl\CarDaoImpl.class
+persistence\dao\CarDao.class
+business\impl\UserManagerImpl.class
+service\ApplicationConfig.class
+business\UserManager.class
+persistence\entities\User.class
+persistence\dao\impl\UserDaoImpl.class
+persistence\dao\impl\AbstractDao.class
+persistence\entities\Car.class
+service\CarService.class
