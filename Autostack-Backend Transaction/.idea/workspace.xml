@@ -5,222 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9180e3f4-3239-404e-959d-317e93bf3e14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.1RESTful Web Services/rest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.2RestApp/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.2RestApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4.2RestApp/4.2RestApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoStack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Autostack-Backend Transaction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/Concurrency Utilities.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MainForSong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MySong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/EjbExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/managedtaskexample/MyManagedTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/CallableExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/FactoryExecutorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/CallableListenerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/CallableTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/PoolExecutorEJB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/java/org/example/rest/apps/SimpleTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/MySong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/MyTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/classes/org/example/rest/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency Utilities/target/test-classes/org/example/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/EJB1.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/lib/javax.transaction.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MySingletonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MyStatefulBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/beans/MyStatelessBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/java/services/Service2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MySingletonBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MyStatefulBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/beans/MyStatelessBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/classes/services/Service2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/EJB/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MySingletonBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MyStatefulBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/beans/MyStatelessBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/classes/services/Service2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EJB1.1/target/test-classes/org/example/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/JavaPersistence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/business/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/business/impl/UserManagerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/persistence/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/persistence/dao/impl/AbstractDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/persistence/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/persistence/entities/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/persistence/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/service/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/java/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/classes/persistence/dao/impl/AbstractDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/classes/service/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/classmate-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/hibernate-core-5.1.10.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/hibernate-entitymanager-5.1.10.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/jandex-2.0.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/javassist-3.20.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/lib/xml-apis-1.0.b2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/JavaPersistence/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/classes/persistence/dao/impl/AbstractDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/classes/service/ApplicationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPersistence/target/test-classes/org/example/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaTransaction/JavaTransaction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Hackathon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/2_Servlets_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/3_1_JavaServer_Faces_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/3_JavaServer_Faces_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/4_1RESTful_Web_Services_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/4_RESTful_Web_Services_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/3.1-JavaServer Faces/lib/javax.faces-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/FastInoset.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/gmbal-api-only.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/ha-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/jaxb-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/jaxb-impl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/jaxb-xjc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/jaxws-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/jaxws-rt.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/jaxws-tools.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/jsr181-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/mail.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/management-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/mimepull.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/policy.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/saaj-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/saaj-impl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/stax-ex.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/stax2-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/streambuffer.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/4.RESTful Web Services/lib/woodstox-core-asl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/hashed/jdu6fulh2eymbosqzh3mp4q6las52oia/javax.ws.rs-api-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/checkstyleidea-libs/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/JAX_RS_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Mojarra_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/org_jetbrains_annotations_16_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/webContexts.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoStack/.idea/AutoStack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanValidation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanValidation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSockets/WebSockets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/JavaMessageService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/java/org/example/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/java/queue/MyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/java/queue/MyReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/java/queue/MySender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/java/services/ApplicationConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/java/services/SenderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMessageService/src/main/webapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +48,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Users\imiclaus\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="C:\Users\imiclaus\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6948.69\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -304,6 +106,7 @@
       <workItem from="1596177808509" duration="16387000" />
       <workItem from="1596435712329" duration="5446000" />
       <workItem from="1597226567988" duration="201000" />
+      <workItem from="1599220799190" duration="51000" />
     </task>
     <servers />
   </component>
@@ -342,10 +145,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="527" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1595941045225" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596196463224">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599220848304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.7.1920.1040@0.0.1536.824" timestamp="1596196463224" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1599220848304" />
     <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1595928935869">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
